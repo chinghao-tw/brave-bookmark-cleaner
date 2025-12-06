@@ -1,0 +1,25 @@
+# Bookmark files (may contain personal data)
+bookmarks_original.html
+bookmarks_clean.html
+bookmarks_backup*.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
